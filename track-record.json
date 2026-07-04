@@ -3,7 +3,7 @@
   "start_bankroll": 10000.0,
   "bankroll": 10000.0,
   "total_return_pct": 0.0,
-  "open_positions": 16,
+  "open_positions": 18,
   "settled": 0,
   "wins": 0,
   "hit_rate_pct": 0.0,
@@ -11,5 +11,5 @@
   "equity_curve": [
     10000.0
   ],
-  "generated_at": "2026-07-03T01:03:26.505490+00:00"
+  "generated_at": "2026-07-04T01:03:04.457761+00:00"
 }
