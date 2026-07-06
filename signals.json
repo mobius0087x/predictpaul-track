@@ -398,11 +398,30 @@
       "settled": false,
       "winner_is_yes": null,
       "pnl": null
+    },
+    {
+      "market_id": "2658039",
+      "condition_id": "0x7508771c189bd3b5126cd49dd2c00d531c83e69a6b3d1f13876ba9fa987daad8",
+      "question": "GPT-5.6 released by July 8, 2026?",
+      "recorded_at": 1783299709,
+      "direction": "YES",
+      "p_market": 0.155,
+      "p_model": 0.1888379869132974,
+      "edge": 0.033837986913297396,
+      "weighted_net": 0.22558657942198274,
+      "n_whales": 5,
+      "end_date": "2026-07-08T00:00:00Z",
+      "fill_price": 0.17171586065119465,
+      "fill_notional": 170.3988,
+      "book_levels": 3,
+      "settled": false,
+      "winner_is_yes": null,
+      "pnl": null
     }
   ],
   "report": {
-    "total": 21,
-    "open": 21,
+    "total": 22,
+    "open": 22,
     "settled": 0,
     "wins": 0,
     "hit_rate": 0.0,

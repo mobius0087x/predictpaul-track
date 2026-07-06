@@ -335,6 +335,22 @@
       "bankroll_after": null,
       "prev_hash": "693839e55f43b9bf0ff2c035a26152bdf6ee727e214a92c626f8c10e1036e080",
       "hash": "3964e6dfcbdfa8d2276f0eac92ecc482c69c89d61013aca1a465af984a94c8da"
+    },
+    {
+      "seq": 21,
+      "market_id": "2658039",
+      "direction": "YES",
+      "entry_price": 0.17171586065119465,
+      "p_model_side": 0.1888379869132974,
+      "size_frac": 0.013788,
+      "stake": 137.88,
+      "bankroll_before": 10000.0,
+      "settled": false,
+      "won": null,
+      "pnl_per_dollar": null,
+      "bankroll_after": null,
+      "prev_hash": "3964e6dfcbdfa8d2276f0eac92ecc482c69c89d61013aca1a465af984a94c8da",
+      "hash": "f26fbec34860976e333231ed08879fb54a0767d32ca2e3656638f85ba1eb97cf"
     }
   ],
   "chain_ok": true
